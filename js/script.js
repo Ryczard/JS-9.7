@@ -32,6 +32,10 @@ function setGameElements() {
       break;
     case 'ended':
         newGameBtn.innerText = 'Jeszcze raz';
+        playerPickElem.innerText = 'Player selection';
+        computerPickElem.innerText = 'Computer selection';
+        playerResultElem.innerText = 'Player score';
+        computerResultElem.innerText = 'Computer score';
     case 'notStarted':
     default:
         newGameElem.style.display = 'block';
