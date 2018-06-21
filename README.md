@@ -1,1 +1,1 @@
-# JS-9.7
+https://ryczard.github.io/Rock-Paper-Scissors/
